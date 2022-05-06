@@ -39,6 +39,21 @@
         </tr>
     </table>
 </div>
+<div align="center">
+  <h3 align="center"> Hosted by: </h3>
+</div>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><a href="https://github.com/prykdev"><img src="https://avatars.githubusercontent.com/prykdev" width=150px height=150px /></a></br> <h4 style="color:white;">@ prykdev</h4>
+            <td align="center"><a href="https://github.com/akshatnema"><img src="https://avatars.githubusercontent.com/akshatnema" width=150px height=150px /></a></br> <h4 style="color:white;">@ akshatnema</h4>
+            <td align="center"><a href="https://github.com/ghulamyazdani"><img src="https://avatars.githubusercontent.com/ghulamyazdani" width=150px height=150px /></a></br> <h4 style="color:white;">@ ghulamyazdani</h4>
+            <td align="center"><a href="https://github.com/JOS-RE"><img src="https://avatars.githubusercontent.com/JOS-RE" width=150px height=150px /></a></br> <h4 style="color:white;">@ JOS-RE</h4>
+            <td align="center"><a href="https://github.com/pixan198"><img src="https://avatars.githubusercontent.com/pixan198" width=150px height=150px /></a></br> <h4 style="color:white;">@ pixan198</h4>
+            <td align="center"><a href="https://github.com/Harsha200105"><img src="https://avatars.githubusercontent.com/Harsha200105" width=150px height=150px /></a></br> <h4 style="color:white;">@ Harsha200105</h4>
+        </tr>
+    </table>
+</div>
 <br />
 <br />
 <div align="center">

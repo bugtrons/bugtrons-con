@@ -12,13 +12,15 @@
 <p align="center">
     <img width="40%" src="brand-assets/img/bugtrons-con-I.png">
 </p>
+<p align="center">
+    <img src="./season-I/banners/speakers.png">
+</p>
 
 | Sr.No. |                 Conference - About                  |                                              Speaker Name                                              |                       Check Out                       |
 | :----: | :-------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
 |   1    |             Open Source & Opportunities             |                 Shivay Lamba (CTO @ DarkHorse, GSoC Mentor @ TensorFlow & @ Jenkinsci)                 | <a href="https://youtu.be/wlPQV095brs">Click here</a> |
 |   2    |             Let's Flutter with Himanshu             |                  Himanshu Sharma (Incoming MTS @ getvymo & Creator of #GitHubWrapped)                  | <a href="https://youtu.be/v26cRYUJTWE">Click here</a> |
 |   3    |         The Surprising Power of Remote Work         |                Santosh Yadav (GitHub Star - India & Google Developer Expert - Angular)                 | <a href="https://youtu.be/3IA34ubhSXA">Click here</a> |
-|   4    | Developer Portfolio - NextJS, Storyblok and Postman |                        Abir Pal (SDE @ getcodiga & Student Leader @ getpostman)                        | <a href="https://youtu.be/D8V6QNU8nis">Click here</a> |
 |   4    | Developer Portfolio - NextJS, Storyblok and Postman |                        Abir Pal (SDE @ getcodiga & Student Leader @ getpostman)                        | <a href="https://youtu.be/D8V6QNU8nis">Click here</a> |
 |   5    |        Rust Kickstart - WASM and Blockchain         |             Faisal Ahmed Farooq (Junior Rust Engineer @ Polkadex & Author @ EducativeInc)              | <a href="https://youtu.be/ElqmYoYudAs">Click here</a> |
 |   6    |               Web 3.0 with Hack Club                |                         Harsh Bajpai (SWE & Community Manager APAC @hackclub)                          | <a href="https://youtu.be/6GmcZ30IzIk">Click here</a> |
